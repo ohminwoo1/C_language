@@ -3,13 +3,13 @@ int main(void)
 {
     int x,y;
 
-    printf("Ã¹¹øÂ° ¼ö=");
+    printf("ì²«ë²ˆì§¸ ìˆ˜=");
     scanf("%d", &x);
-    printf("µÎ¹øÂ° ¼ö=");
+    printf("ë‘ë²ˆì§¸ ìˆ˜=");
     scanf("%d", &y);
-    printf("Å« ¼ö= %d \n", (x>y)?x:y);
-    printf("ÀÛÀº ¼ö= %d \n", (x>y)?y:x);
+    printf("í° ìˆ˜= %d \n", (x>y)?x:y);
+    printf("ì‘ì€ ìˆ˜= %d \n", (x>y)?y:x);
 
     return 0;
 }
-//ÇÇÀÚ ¸Ô°í ½Í´Ù
+
