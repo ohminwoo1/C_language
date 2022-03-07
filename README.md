@@ -4,6 +4,7 @@
 
 #### int는 정수 float, double은 실수 char은 문자
 
+```C
 swich(변수)
 {   case 변수가 ~일때:
       코드;
@@ -12,3 +13,4 @@ swich(변수)
       코드;
       break;
 }
+```
